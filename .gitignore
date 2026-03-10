@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Local data (JSON state for the bot)
+bot/data/*.json
+
+# Logs
+*.log
+
+# Secrets / env files
+secret.env
+.env
+.env.*
+
